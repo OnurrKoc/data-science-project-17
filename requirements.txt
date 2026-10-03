@@ -3,3 +3,5 @@ requests
 watchdog
 numpy
 pandas
+matplotlib
+scipy
